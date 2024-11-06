@@ -1,14 +1,15 @@
-/* SPDX-License-Identifier: MIT OR GPL-3.0-only */
+/* SPDX-License-Identifier: MIT */
 /* ostypes.h
 ** strophe XMPP client library -- type definitions for platforms
 **     without stdint.h
 **
 ** Copyright (C) 2005-2009 Collecta, Inc.
+** Copyright 2024 LifeCAN!vs
 **
-**  This software is provided AS-IS with no warranty, either express
-**  or implied.
+**  This software is provided AS-IS with no warranty, either express or
+**  implied.
 **
-**  This program is dual licensed under the MIT or GPLv3 licenses.
+** This program is licensed under the MIT license.
 */
 
 /** @file
