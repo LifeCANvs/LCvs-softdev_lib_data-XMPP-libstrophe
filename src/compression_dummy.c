@@ -1,5 +1,5 @@
 /* SPDX-License-Identifier: MIT */
-/* compression.c
+/* compression_dummy.c
 ** strophe XMPP client library -- Dummy Compression
 **
 ** Copyright (C) 2005-2009 Collecta, Inc.
