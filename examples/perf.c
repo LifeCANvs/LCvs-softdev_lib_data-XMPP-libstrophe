@@ -1,13 +1,14 @@
-/* SPDX-License-Identifier: MIT OR GPL-3.0-only */
+/* SPDX-License-Identifier: MIT */
 /* perf.c
  * strophe XMPP client library -- performance measure
  *
  * Copyright (C) 2022 Steffen Jaeckel <jaeckel-floss@eyet-services.de>
- *
- *  This software is provided AS-IS with no warranty, either express
- *  or implied.
- *
- *  This program is dual licensed under the MIT or GPLv3 licenses.
+** Copyright 2024 LifeCAN!vs
+**
+**  This software is provided AS-IS with no warranty, either express or
+**  implied.
+**
+** This program is licensed under the MIT license.
  */
 
 /** @file
