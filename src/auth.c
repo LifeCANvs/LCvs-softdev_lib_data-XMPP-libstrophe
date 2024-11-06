@@ -8,7 +8,7 @@
 **  This software is provided AS-IS with no warranty, either express or
 **  implied.
 **
-** This program is dual licensed under the MIT license.
+** This program is licensed under the MIT license.
 */
 
 /** @file
