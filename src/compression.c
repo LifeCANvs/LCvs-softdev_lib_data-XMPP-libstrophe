@@ -1,6 +1,6 @@
 /* SPDX-License-Identifier: MIT */
 /* compression.c
-** strophe XMPP client library -- auth functions and handlers
+** strophe XMPP client library -- XEP-0138 Stream Compression
 **
 ** Copyright (C) 2005-2009 Collecta, Inc.
 ** Copyright 2024 LifeCAN!vs
