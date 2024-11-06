@@ -1,13 +1,14 @@
-/* SPDX-License-Identifier: MIT OR GPL-3.0-only */
+/* SPDX-License-Identifier: MIT */
 /* tls.c
 ** strophe XMPP client library -- generic TLS functions
 **
 ** Copyright (C) 2021 Steffen Jaeckel <jaeckel-floss@eyet-services.de>
+** Copyright 2024 LifeCAN!vs
 **
-**  This software is provided AS-IS with no warranty, either express
-**  or implied.
+**  This software is provided AS-IS with no warranty, either express or
+**  implied.
 **
-**  This program is dual licensed under the MIT or GPLv3 licenses.
+** This program is licensed under the MIT license.
 */
 
 /** @file
