@@ -1,5 +1,6 @@
 libstrophe XMPP client library
 Copyright (C) 2005-2009 Collecta, Inc.
+Copyright 2024 LifeCAN!vs
 
-This program is dual licensed under the MIT or GPLv3 licenses.
-Please the files MIT-LICENSE.txt and GPL-LICENSE.txt for details.
+This program is licensed under the MIT licenses.
+Please the files MIT-LICENSE.txt for details.
