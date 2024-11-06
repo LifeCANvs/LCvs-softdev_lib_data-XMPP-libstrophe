@@ -1,6 +1,6 @@
 /* SPDX-License-Identifier: MIT */
 /* common.h
-** strophe XMPP client library -- auth functions and handlers
+** strophe XMPP client library -- internal common structures
 **
 ** Copyright (C) 2005-2009 Collecta, Inc.
 ** Copyright 2024 LifeCAN!vs
