@@ -1,5 +1,5 @@
 /* SPDX-License-Identifier: MIT */
-/* compression.c
+/* conn.c
 ** strophe XMPP client library -- connection object functions
 **
 ** Copyright (C) 2005-2009 Collecta, Inc.
