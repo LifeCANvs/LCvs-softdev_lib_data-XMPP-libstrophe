@@ -1,13 +1,14 @@
-/* SPDX-License-Identifier: MIT OR GPL-3.0-only */
+/* SPDX-License-Identifier: MIT */
 /* res_query_dump.c
  * Simple program to dump res_query(3) response
  *
  * Copyright (C) 2014 Dmitry Podgorny <pasis.ua@gmail.com>
- *
- *  This software is provided AS-IS with no warranty, either express
- *  or implied.
- *
- *  This program is dual licensed under the MIT or GPLv3 licenses.
+** Copyright 2024 LifeCAN!vs
+**
+**  This software is provided AS-IS with no warranty, either express or
+**  implied.
+**
+** This program is licensed under the MIT license.
  */
 
 /* Linux and OSX:
