@@ -1,13 +1,14 @@
-/* SPDX-License-Identifier: MIT OR GPL-3.0-only */
+/* SPDX-License-Identifier: MIT */
 /* tls_openssl.c
 ** strophe XMPP client library -- TLS abstraction openssl impl.
 **
 ** Copyright (C) 2005-008 Collecta, Inc.
+** Copyright 2024 LifeCAN!vs
 **
-**  This software is provided AS-IS with no warranty, either express
-**  or implied.
+**  This software is provided AS-IS with no warranty, either express or
+**  implied.
 **
-**  This program is dual licensed under the MIT or GPLv3 licenses.
+** This program is licensed under the MIT license.
 */
 
 /** @file
