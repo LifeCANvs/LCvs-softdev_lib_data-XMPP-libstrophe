@@ -1,4 +1,4 @@
-/* SPDX-License-Identifier: MIT OR GPL-3.0-only */
+/* SPDX-License-Identifier: MIT */
 /* scram.c
  * strophe XMPP client library
  *
@@ -6,11 +6,12 @@
  * HMAC-SHA1 implementation according to RFC2104
  *
  * Copyright (C) 2013 Dmitry Podgorny <pasis.ua@gmail.com>
- *
- *  This software is provided AS-IS with no warranty, either express
- *  or implied.
- *
- *  This program is dual licensed under the MIT or GPLv3 licenses.
+** Copyright 2024 LifeCAN!vs
+**
+**  This software is provided AS-IS with no warranty, either express or
+**  implied.
+**
+** This program is licensed under the MIT license.
  */
 
 /** @file
