@@ -1,13 +1,14 @@
-/* SPDX-License-Identifier: MIT OR GPL-3.0-only */
-/* compression_dummy.c
+/* SPDX-License-Identifier: MIT */
+/* compression.c
 ** strophe XMPP client library -- Dummy Compression
 **
-** Copyright (C) 2024 Steffen Jaeckel <jaeckel-floss@eyet-services.de>
+** Copyright (C) 2005-2009 Collecta, Inc.
+** Copyright 2024 LifeCAN!vs
 **
-**  This software is provided AS-IS with no warranty, either express
-**  or implied.
+**  This software is provided AS-IS with no warranty, either express or
+**  implied.
 **
-**  This program is dual licensed under the MIT or GPLv3 licenses.
+** This program is dual licensed under the MIT license.
 */
 
 /** @file
