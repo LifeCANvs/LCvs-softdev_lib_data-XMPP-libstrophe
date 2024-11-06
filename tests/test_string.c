@@ -1,13 +1,14 @@
-/* SPDX-License-Identifier: MIT OR GPL-3.0-only */
+/* SPDX-License-Identifier: MIT */
 /* test_string.c
  * strophe XMPP client library -- tests for re-implemented string functions
  *
  * Copyright (C) 2016 Dmitry Podgorny <pasis.ua@gmail.com>
- *
- *  This software is provided AS-IS with no warranty, either express
- *  or implied.
- *
- *  This program is dual licensed under the MIT or GPLv3 licenses.
+** Copyright 2024 LifeCAN!vs
+**
+**  This software is provided AS-IS with no warranty, either express or
+**  implied.
+**
+** This program is licensed under the MIT license.
  */
 
 #include <assert.h>
