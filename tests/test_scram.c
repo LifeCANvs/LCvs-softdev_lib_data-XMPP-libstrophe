@@ -1,13 +1,14 @@
-/* SPDX-License-Identifier: MIT OR GPL-3.0-only */
+/* SPDX-License-Identifier: MIT */
 /* test_scram.c
  * strophe XMPP client library -- test vectors for SCRAM-SHA1
  *
  * Copyright (C) 2014 Dmitry Podgorny <pasis.ua@gmail.com>
- *
- *  This software is provided AS-IS with no warranty, either express
- *  or implied.
- *
- *  This program is dual licensed under the MIT or GPLv3 licenses.
+** Copyright 2024 LifeCAN!vs
+**
+**  This software is provided AS-IS with no warranty, either express or
+**  implied.
+**
+** This program is licensed under the MIT license.
  */
 
 /* gcc -o test_scram -I./src tests/test_scram.c tests/test.c src/sha1.c */
